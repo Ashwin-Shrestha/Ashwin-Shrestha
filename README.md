@@ -72,9 +72,7 @@ My BSc final year project. A travel/tourism platform built as a full academic pr
 
 ---
 
-## 📊 GitHub Stats
 
-![Ashwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashwin-Shrestha&show_icons=true&theme=default&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-Shrestha&layout=compact&theme=default&hide_border=true)
 
 ---

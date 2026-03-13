@@ -8,7 +8,7 @@ Open to internships & working student roles in backend development, system integ
 
 ## 🚀 About Me
 
-I'm a backend-oriented developer with hands-on professional experience building and maintaining systems that serve real users. At my last role I improved system response time by ~20% through database optimisation and resolved 30+ production issues on live transactional platforms handling bookings and payments.
+I'm a backend-focused developer with hands-on professional experience building and maintaining systems that serve real users. At my last role I improved system response time by ~20% through database optimisation and resolved 30+ production issues on live transactional platforms handling bookings and payments.
 
 - 🔭 Currently studying **MSc Software Engineering** in Brandenburg/Potsdam
 - 💼 Previously **Junior Software Developer** at Midas Technologies & Arhant Solutions (Kathmandu)
@@ -50,6 +50,14 @@ I'm a backend-oriented developer with hands-on professional experience building 
 
 ## 📌 Featured Projects
 
+### 🐾 [Animal Welfare & Stress Detection System](https://github.com/Ashwin-Shrestha/Animal_Welfare_and_Stress_Detection_System-Pattern-Recognition-Project)
+MSc pattern recognition project using CNN (ResNet-18) to detect stress-risk indicators in animals via posture-based visual proxies. Achieved ~93% species classification accuracy on the Animals-10 dataset (~26,000 images). Includes a meta-learner and rule-based decision engine for interpretable stress-risk scoring.  
+`Python` `CNN` `ResNet-18` `Machine Learning` `Jupyter`
+
+### 🔐 [ECC Secure Communication System](https://github.com/Ashwin-Shrestha/ECC-Secure-Communication)
+MSc cryptography project implementing authenticated ECDH key exchange with ECDSA signatures, HKDF-SHA256 key derivation, and AES-256-GCM file encryption. Includes MITM attack simulation and prevention. 10/10 test cases passed.  
+`Python` `ECC` `Cryptography` `AES-256-GCM` `Network Security`
+
 ### 🏨 [Easy-Inn — Hotel Booking System](https://github.com/Ashwin-Shrestha/Easy-Inn)
 A Java-based hotel booking and management system. Covers room reservation, guest management, and booking workflows.  
 `Java` `OOP` `Database`
@@ -58,22 +66,13 @@ A Java-based hotel booking and management system. Covers room reservation, guest
 Relational database system for managing an art gallery — artists, artworks, exhibitions, and sales. Designed with normalised SQL schema.  
 `SQL` `Database Design` `Relational Modelling`
 
-### 🌐 [Portfolio Website](https://github.com/Ashwin-Shrestha/Portfolio-Website)
-Personal portfolio site built from scratch using HTML, CSS, and JavaScript.  
-`HTML` `CSS` `JavaScript`
+### 🌐 [Ghumfir — Travel Booking Platform](https://github.com/Ashwin-Shrestha/Ghumfir)
+BSc Final Year Project — a MERN stack travel booking platform for Nepal with Google Maps API integration. Users click destination pins on an interactive map to browse hotels, itineraries, and book trips.  
+`MongoDB` `Express` `React` `Node.js` `Google Maps API`
 
 ### 📚 [Library Management System](https://github.com/Ashwin-Shrestha/Simple-Library-Management-System)
-A Python-based system to manage book inventory, member records, and borrowing.  
+A Python-based system to manage book inventory, member records, and borrowing operations with full CRUD functionality.  
 `Python` `CRUD` `File Management`
-
-### 🎓 [Ghumfir — Final Year Project](https://github.com/Ashwin-Shrestha/Ghumfir)
-My BSc final year project. A travel/tourism platform built as a full academic project.  
-`Full Stack` `FYP`
-
----
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-Shrestha&layout=compact&theme=default&hide_border=true)
 
 ---
 
